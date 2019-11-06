@@ -1,4 +1,4 @@
-# MNIST Repository
+# Handwritten Digits Repository
 ## Experiments with Keras and TensorFlow on the MNIST digits dataset
 These experiments aimed to explore the performance of different types of Neural Networks and how to set up their hyperparameters. What is the ideal solution to analysing the standard MNIST digits data set?
 
